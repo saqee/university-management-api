@@ -6,4 +6,5 @@ export default {
   port: process.env.PORT,
   db: process.env.DB_URL,
   secret: process.env.SECRET,
+  default_stu_pass: process.env.DEFAULT_STU_PASS,
 }
